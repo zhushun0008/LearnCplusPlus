@@ -1,0 +1,3 @@
+/Volumes/sanDisk/github/cplusplus_zhengli_tsinghua/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/sanDisk/github/cplusplus_zhengli_tsinghua/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/sanDisk/github/cplusplus_zhengli_tsinghua/cmake-build-debug/CMakeFiles/cplusplus_zhengli_tsinghua.dir

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cplusplus_zhengli_tsinghua" targetName="cplusplus_zhengli_tsinghua" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f4eaec4-2a79-427e-b69c-bc8d45576c9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/c2_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_1/3_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_10/3_10.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_10.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_11/3_11.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_11.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_12/3_12.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_12.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_13/3_13.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_13.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_14/3_14.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_14.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_15/3_15.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_15.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_16/3_16.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_16.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_17/3_17.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_17.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_2/3_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_3/3_3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_4/3_4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_5/3_5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_6/3_6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_6.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_7/3_7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_7.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_8/3_8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_8.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_9/3_9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_9.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_1/4_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_10/4_10.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_10.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_2/4_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_3/4_3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_4/4_4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_7/4_7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_7.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_8/4_8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_8.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_9/4_9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_9.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_1/5_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_10/5_10.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_10.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_10/Point.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/Point.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_10/Point.h" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/Point.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_11/5_11.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_11.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_11/account.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/account.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_11/account.h" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/account.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_2/5_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_3/5_3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_4/5_4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_5/5_5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_6/5_6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_6.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_7/5_7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_7.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_8/5_8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_8.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_9/5_9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_9.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/programming_assginments/programmingAssignment02.h" beforeDir="false" afterPath="$PROJECT_DIR$/basic/programming_assginments/programmingAssignment02.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/programming_assginments/programmingAssignment03.h" beforeDir="false" afterPath="$PROJECT_DIR$/basic/programming_assginments/programmingAssignment03.h" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/basic/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_1.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#52#152#0" expanded="true" />
+                <element signature="e#154#261#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/account.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_10.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+              <folding>
+                <element signature="e#334#817#0" expanded="true" />
+                <element signature="e#819#948#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/Point.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/Point.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="e#21#39#0" expanded="true" />
+                <element signature="e#121#190#0" expanded="true" />
+                <element signature="e#192#266#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_9.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/chap2_example.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-134">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding>
+                <element signature="e#52#148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/basic/programming_assginments/programmingAssignment03.h" />
+        <option value="$PROJECT_DIR$/basic/programming_assginments/programmingAssignment02.h" />
+        <option value="$PROJECT_DIR$/basic/programming_assginments/programmingAssignment04.h" />
+        <option value="$PROJECT_DIR$/basic/programming_assginments/programmingAssignment05.cpp" />
+        <option value="$PROJECT_DIR$/basic/programming_assginments/programmingAssignment05.h" />
+        <option value="$PROJECT_DIR$/basic/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/basic/programming_assginments/programmingAssignment06.h" />
+        <option value="$PROJECT_DIR$/advanced/programming_assignments/advanced_pa01.h" />
+        <option value="$PROJECT_DIR$/advanced/programming_assignments/advanced_pa08.h" />
+        <option value="$PROJECT_DIR$/basic/main.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="816" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cplusplus_zhengli_tsinghua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cplusplus_zhengli_tsinghua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cplusplus_zhengli_tsinghua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cplusplus_zhengli_tsinghua" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cplusplus_zhengli_tsinghua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cplusplus_zhengli_tsinghua" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="CPPV4_examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic/CPPV4_examples/Chapter5" />
+      <recent name="$PROJECT_DIR$/basic/CPPV4_examples/Chapter4" />
+      <recent name="$PROJECT_DIR$/basic/CPPV4_examples/Chapter3" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cplusplus_zhengli_tsinghua" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cplusplus_zhengli_tsinghua" TARGET_NAME="cplusplus_zhengli_tsinghua" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cplusplus_zhengli_tsinghua" RUN_TARGET_NAME="cplusplus_zhengli_tsinghua">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.cplusplus_zhengli_tsinghua" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f4eaec4-2a79-427e-b69c-bc8d45576c9f" name="Default Changelist" comment="" />
+      <created>1538813927755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538813927755</updated>
+      <workItem from="1538813928993" duration="676000" />
+      <workItem from="1538814704662" duration="505000" />
+      <workItem from="1538815225774" duration="8503000" />
+      <workItem from="1538827202069" duration="1881000" />
+      <workItem from="1538838054676" duration="1919000" />
+      <workItem from="1538840029961" duration="7372000" />
+      <workItem from="1538882182053" duration="963000" />
+      <workItem from="1539165253664" duration="8184000" />
+      <workItem from="1539232163612" duration="1420000" />
+      <workItem from="1540279543916" duration="272000" />
+      <workItem from="1540281805981" duration="10000" />
+      <workItem from="1540281834469" duration="1970000" />
+      <workItem from="1541146382275" duration="25000" />
+      <workItem from="1541146424889" duration="48000" />
+      <workItem from="1541146583969" duration="96000" />
+      <workItem from="1557737390570" duration="401000" />
+      <workItem from="1557737818060" duration="631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34876000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="816" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20243205" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2639087" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39857143" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3281027" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" visible="true" weight="0.32952926" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/basic/programming_assginments/programmingAssignment06.h</url>
+          <line>58</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>a.length()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a[0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a.substr(1, a.length())</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a.substr(1)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/basic/programming_assginments/programmingAssignment03.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/programming_assginments/programmingAssignment04.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/programming_assginments/programmingAssignment05.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="105" selection-start-line="105" selection-end-line="120" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/string" />
+    <entry file="file://$PROJECT_DIR$/advanced/programming_assignments/advanced_pa07.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#149#168#0" expanded="true" />
+            <element signature="e#331#385#0" expanded="true" />
+            <element signature="e#387#450#0" expanded="true" />
+            <element signature="e#631#715#0" expanded="true" />
+            <element signature="e#717#1441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/programming_assignments/advanced_pa08.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="193" lean-forward="true" selection-start-line="193" selection-end-line="193" />
+          <folding>
+            <element signature="e#149#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/programming_assignments/advanced_pa12.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/programming_assignments/advanced_pa11.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/programming_assignments/advanced_pa10.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/programming_assginments/programmingAssignment06.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="90" column="27" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
+          <folding>
+            <element signature="e#168#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/CPPV4_experiments/ch01/lab1_1/lab1_1.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/programming_assignments/advanced_pa09.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#2#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter3/3_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#52#152#0" expanded="true" />
+            <element signature="e#154#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/account.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter4/4_10.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <element signature="e#334#817#0" expanded="true" />
+            <element signature="e#819#948#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/Point.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/Point.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#21#39#0" expanded="true" />
+            <element signature="e#121#190#0" expanded="true" />
+            <element signature="e#192#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/Chapter5/5_9.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/programming_assginments/programmingAssignment02.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/CPPV4_examples/chap2_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="e#52#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
